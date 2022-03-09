@@ -7,7 +7,11 @@ I'm an informatics engineering student at Singaperbangsa Karawang University, In
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me : **hagiazzam@gmail.com**
+- 📫 How to reach me : **hagiazzam@gmail.com** or
+
+  [![LINE](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/a8DUeXa526)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hagiazzam)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6281806905497)
 
 __Check out my repository:__
 
