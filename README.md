@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1><br>
 
-## About Me
+##
 I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. i like to read, watch youtube and play games and sports. And importantly, i like to explore and learn new things everyday.
 
 - 🌱 I’m currently learning **Web Development**
