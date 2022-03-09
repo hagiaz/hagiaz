@@ -1,5 +1,4 @@
 ![Null Banner](./githeader.png)
-<img src="https://img.shields.io/github/followers/hagiaz.svg?style=social&label=Follow" alt="hagiaz" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hagiaz&label=Profile%20views&color=0e75b6&style=flat" alt="hagiaz" /> </p>
 
 <h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1><br>
@@ -9,6 +8,16 @@ I'm an informatics engineering student at Singaperbangsa Karawang University, In
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me : **hagiazzam@gmail.com**
+
+__Check out my repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/laxmena/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hagiaz&repo=Tugas-PBW" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 ## Connect With Me:
 <p align="left">
