@@ -1,8 +1,10 @@
 ![Null Banner](./githeader.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hagiaz&label=Profile%20views&color=0e75b6&style=flat" alt="hagiaz" /> </p>
 
-<h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1>
-<h3 align="center">Informatics engineering student at Singaperbangsa Karawang University, Indonesia.</h3><br>
+<h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1><br>
+
+## About Me
+I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. i like to read, watch youtube and play games and sports. And importantly, i like to explore and learn new things everyday.
 
 - 🌱 I’m currently learning **Web Development**
 
