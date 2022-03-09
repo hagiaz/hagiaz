@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://github.com/hagiaz">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hagiaz&layout=compact&langs_count=10&theme=light&bg_color=FFFFFF"/>
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hagiaz&show_icons=true&theme=light&include_all_commits=true&count_private=true&icon_color=000000&bg_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hagiaz&show_icons=true&theme=light&include_all_commits=true&count_private=true&icon_color=000000&bg_color=FFFFFF"/>
   <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=hagiaz&theme=light&fire=000000&ring=000000&currStreakLabel=000000"/>
   <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=hagiaz&theme=react-light&bg_color=FFFFFF&color=000000"/>
 </a>
