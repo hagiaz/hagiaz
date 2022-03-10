@@ -1,4 +1,4 @@
-![Null Banner](./githeader.png)
+![Banner](./githeader.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hagiaz&label=Profile%20views&color=0e75b6&style=flat" alt="hagiaz" /> </p>
 
 <h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1><br>
