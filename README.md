@@ -5,7 +5,7 @@
 
 I'm currently an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currenntly learning <code>Web Development</code>, <code>Cloud Computing</code> and <code>Machine Learning</code>. Beside that, I'm also interested in <code>Data science</code> and <code>Mobile development</code>.
 
-I like to read, watch youtube and play games and sports. And also, i like to explore and learn new things everyday, especially IT-related things.
+I like to read, watch youtube and play games and sports. And also, i like to explore new things everyday, especially IT-related things.
 
 - 📫 How to reach me : **hagiazzam@gmail.com** or
 
