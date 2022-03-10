@@ -17,7 +17,7 @@ __Check out my repository:__
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/PyCalendly">
+    <a href="https://github.com/hagiaz/Tugas-PBW">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hagiaz&repo=Tugas-PBW" alt="GitHub Stats" />
     </a>
   </p>
