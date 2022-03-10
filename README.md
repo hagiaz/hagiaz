@@ -31,7 +31,6 @@ __Check out my repository:__
 <a href="https://www.facebook.com/hagi.azzama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hagi azzam" height="30" width="40" /></a>
 <a href="https://instagram.com/hagiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hagiaz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCJtDul3Emykt4zt3rLeXn7A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hagi azzam" height="30" width="40" /></a>
-<a href="https://myanimelist.net/profile/altair55" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png?20200601110537" alt="hagi azzam" height="30" width="30" /></a>
 </p>
 
 ## Languages And Tools
