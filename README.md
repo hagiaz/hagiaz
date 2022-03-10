@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1><br>
 
-I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. i like to read, watch youtube and play games and sports. And importantly, i like to explore and learn new things everyday.
+I'm currently an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currenntly learning <code>web development</code>, <code>cloud computing</code> And <code>machine learning</code>. Beside that, I'm also interested in <code>data science</code> and <code>mobile development</code>.
 
-- 🌱 I’m currently learning **Web Development**
+I like to read, watch youtube and play games and sports. And also, i like to explore and learn new things everyday, especially IT-related things.
 
 - 📫 How to reach me : **hagiazzam@gmail.com** or
 
