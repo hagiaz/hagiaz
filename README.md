@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1><br>
 
-I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currenntly learning <code>Web Development</code>, <code>Cloud Computing</code> and <code>Machine Learning</code>. Beside that, I'm also interested in <code>Data science</code> and <code>Mobile development</code>.
+I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currently learning <code>Web Development</code>, <code>Cloud Computing</code> and <code>Machine Learning</code>. Beside that, I'm also interested in <code>Data science</code> and <code>Mobile development</code>.
 
 - 📫 How to reach me : **hagiazzam@gmail.com** or
 
