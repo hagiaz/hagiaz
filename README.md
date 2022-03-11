@@ -5,6 +5,14 @@
 
 I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currently learning <code>Web Development</code>, <code>Cloud Computing</code> and <code>Machine Learning</code>. Beside that, I'm also interested in <code>Data science</code> and <code>Mobile development</code>.
 
+<details>
+  <summary><b>A bit more about me</b></summary>
+  
+  Hello and nice to meet you! As i said before, i'm currently studying informatics engineering student at Singaperbangsa Karawang University, now focusing to web development. I was born Jakarta, Indonesia but now living in Bekasi. currently 19 y/o. I love to work together with people as a team as much i love working by myself, either with project or something else. 
+    
+  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things. If you want to know more about me, kindly check my socials below or reach to me with links above.
+</details>
+
 - 📫 How to reach me : **hagiazzam@gmail.com** or
 
   [![LINE](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/a8DUeXa526)
@@ -21,14 +29,6 @@ __Check out my repository:__
     </a>
   </p>
 </div>
-
-<details>
-  <summary><b>A bit more about me</b></summary>
-  
-  Hello and nice to meet you! As i said before, i'm currently studying informatics engineering student at Singaperbangsa Karawang University, now focusing to web development. I was born Jakarta, Indonesia but now living in Bekasi. currently 19 y/o. I love to work together with people as a team as much i love working by myself, either with project or something else. 
-    
-  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things. If you want to know more about me, kindly check my socials below or reach to me with links above.
-</details>
 
 ## Connect With Me
 <p align="left">
