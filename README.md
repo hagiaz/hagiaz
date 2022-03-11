@@ -12,14 +12,6 @@ I'm an informatics engineering student at Singaperbangsa Karawang University, In
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6281806905497)
   
   
-<details>
-  <summary><b>A bit more about me😎</b></summary>
-  
-  Hello and nice to meet you! As i said before, i'm currently studying informatics engineering student at Singaperbangsa Karawang University, now focusing to web development. I was born Jakarta, Indonesia but now living in Bekasi. currently 19 y/o. I love to work together with people as a team as much i love working by myself, either with project or something else. 
-    
-  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things.
-</details>
-
 __Check out my repository:__
 
 <div>
@@ -29,6 +21,14 @@ __Check out my repository:__
     </a>
   </p>
 </div>
+
+<details>
+  <summary><b>A bit more about me</b></summary>
+  
+  Hello and nice to meet you! As i said before, i'm currently studying informatics engineering student at Singaperbangsa Karawang University, now focusing to web development. I was born Jakarta, Indonesia but now living in Bekasi. currently 19 y/o. I love to work together with people as a team as much i love working by myself, either with project or something else. 
+    
+  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things.
+</details>
 
 ## Connect With Me
 <p align="left">
