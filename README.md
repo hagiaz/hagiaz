@@ -17,7 +17,7 @@ __Check out my repository:__
 <div>
   <p>
     <a href="https://github.com/hagiaz/Tugas-PBW">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hagiaz&repo=Tugas-PBW&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hagiaz&repo=Tugas-PBW" alt="GitHub Stats"/>
     </a>
   </p>
 </div>
