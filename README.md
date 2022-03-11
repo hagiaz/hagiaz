@@ -54,7 +54,7 @@ __Check out my repository:__
 
 <details>
   <summary><b>A bit more about me</b></summary>
-  Hello and nice to meet you! As i said before, i'm currently studying informatics engineering student at Singaperbangsa Karawang University, now focusing to web development. I was born Jakarta, Indonesia but now living in Bekasi. currently 19 y/o. I love to work together with people as a team as much i love working by myself, either with project or something else. 
+  <p>Hello and nice to meet you! As i said before, i'm currently studying informatics engineering student at Singaperbangsa Karawang University, now focusing to web development. I was born Jakarta, Indonesia but now living in Bekasi. currently 19 y/o. I love to work together with people as a team as much i love working by myself, either with project or something else. 
   <br>
-  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things.
+  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things.</p>
 </details>
