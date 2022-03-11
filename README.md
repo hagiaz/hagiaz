@@ -10,7 +10,7 @@ I'm an informatics engineering student at Singaperbangsa Karawang University, In
   
   Hello and nice to meet you! As i said before, i'm currently studying informatics engineering student at Singaperbangsa Karawang University, now focusing to web development. I was born Jakarta, Indonesia but now living in Bekasi. currently 19 y/o. I love to work together with people as a team as much i love working by myself, either with project or something else. 
     
-  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things. If you want to know more about me, kindly check my socials below or reach to me with links above.
+  I  Loved reading, watching films and animes, playing games and sports, And i also like to explore new things everyday, especially IT-related things. If you want to know more about me, kindly check my socials or reach to me with links below.
 </details>
 
 - 📫 How to reach me : **hagiazzam@gmail.com** or
