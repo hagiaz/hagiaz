@@ -59,8 +59,8 @@ __Check out my repository:__
 [![GitHub followers](https://img.shields.io/github/followers/hagiaz.svg?style=social&label=Follow)](https://github.com/hagiaz?tab=followers)
 <p align="left">
 <a href="https://github.com/hagiaz">
-  <img width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hagiaz&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hagiaz&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img height="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hagiaz&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img height="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hagiaz&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
   <img width="99.5%" src="https://github-readme-streak-stats.herokuapp.com?user=hagiaz&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=1D1F21"/>
   <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=hagiaz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
