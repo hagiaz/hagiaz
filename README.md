@@ -3,7 +3,7 @@
 
 <h1 align="center">Welcome to my repository~</h1><br>
 
-I'm Hagi Azzam Azzikri, an informatics engineering student at Singaperbangsa Karawang University, Indonesia, with focus on learning <code>Web Development</code>, mainly <code>Front-End Web Development</code>. Beside that, i also currently learning <code>Cloud Computing</code> and <code>Machine Learning</code>. and <code>Data science</code>.
+I'm Hagi Azzam Azzikri, an informatics engineering student at Singaperbangsa Karawang University, Indonesia, with focus on learning <code>Web Development</code>, mainly <code>Front-End Web Development</code>. Beside that, i also currently learning <code>Cloud Computing</code>, <code>Machine Learning</code> and <code>Data science</code>.
 - 📫 How to reach me : **hagiazzam@gmail.com** or
 
   [![LINE](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/a8DUeXa526)
