@@ -1,10 +1,9 @@
 ![Banner](./githeader.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hagiaz&label=Profile%20views&color=0e75b6&style=flat" alt="hagiaz" /> </p>
 
-<h1 align="center">Hi 👋, I'm Hagi Azzam Azzikri</h1><br>
+<h1 align="center">Welcome to my repository~</h1><br>
 
-I'm an informatics engineering student at Singaperbangsa Karawang University, Indonesia. I'm currently learning <code>Web Development</code>, <code>Cloud Computing</code> and <code>Machine Learning</code>. Beside that, I'm also interested in <code>Data science</code> and <code>Mobile development</code>.
-
+I'm Hagi Azzam Azzikri, an informatics engineering student at Singaperbangsa Karawang University, Indonesia, with focus on learning <code>Web Development</code>, mainly <code>Front-End Web Development</code>. Beside that, i also currently learning <code>Cloud Computing</code> and <code>Machine Learning</code>. and <code>Data science</code>.
 - 📫 How to reach me : **hagiazzam@gmail.com** or
 
   [![LINE](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/a8DUeXa526)
