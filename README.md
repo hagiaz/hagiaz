@@ -1,4 +1,4 @@
-![Banner](./githeader.png)
+![Banner](./githeader2.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hagiaz&label=Profile%20views&color=0e75b6&style=flat" alt="hagiaz" /> </p>
 
 <h1 align="center">Welcome to my repository~</h1><br>
